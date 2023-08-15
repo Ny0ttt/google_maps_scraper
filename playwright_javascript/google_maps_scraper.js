@@ -84,7 +84,7 @@ async function run() {
        reviewCount: reviewCount,
        rating: rating,
        address: address,
-       phone: phone
+       phoneNumber: phone
      };
      console.log(productData);
      ListingPageData.push(productData);
